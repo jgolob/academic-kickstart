@@ -1,0 +1,13 @@
+---
+title: "Chromatin remodeling during mouse and human embryonic stem cell differentiation"
+date: 2008-05-01
+publishDate: 2019-10-04T21:42:50.156407Z
+authors: ["Jonathan L. Golob", "Sharon L. Paige", "Veronica Muskheli", "Lil Pabon", "Charles E. Murry"]
+publication_types: ["2"]
+abstract: "Embryonic stem cell (ESC) differentiation is an excellent model to study chromatin changes at developmentally regulated loci. Differentiating mouse and human ESCs increase genome-wide acetylation (euchromatic) and tri-methylation (heterochromatic) of lysine 9 on histone H3. The Oct4 locus is euchromatic when expressed in undifferentiated ESCs and heterochromatic after differentiation. Brachyury T, a mesoderm-specific transcription factor, is not yet expressed in undifferentiated cells, where its locus has \"bivalent\" tri-methyl lysine 4 and lysine 27 modifications. During directed differentiation to pre-cardiac mesoderm, the activated brachyury locus has high levels of tri-methyl lysine 4 (euchromatin), switching to heterochromatin after gene silencing. Thus, ESC differentiation is accompanied by genome-wide commitment to euchromatin or heterochromatin. Undifferentiated hESCs bivalently modify the brachyury locus, activate it to euchromatin during mesoderm induction, and subsequently repress it to heterochromatin, demonstrating, to our knowledge, the first analysis of chromatin dynamics at a locus essential for mesoderm and endoderm differentiation."
+featured: false
+publication: "*Developmental Dynamics: An Official Publication of the American Association of Anatomists*"
+tags: ["Animals", "Humans", "Cell Differentiation", "Mice", "Acetylation", "Cells", "Cultured", "Chromatin", "Chromatin Assembly and Disassembly", "Embryonic Stem Cells", "Fetal Proteins", "Gene Expression Regulation", "Developmental", "Heart", "Histones", "Methylation", "Octamer Transcription Factor-3", "RNA", "T-Box Domain Proteins"]
+doi: "10.1002/dvdy.21545"
+---
+
