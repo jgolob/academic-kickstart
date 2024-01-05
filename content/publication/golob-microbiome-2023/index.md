@@ -1,29 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Butyrogenic bacteria after acute graft-versus-host disease (GVHD) are associated
-  with the development of steroid-refractory GVHD
+title: The Microbiome in Quiescent Crohn’s Disease with Persistent Symptoms Show Disruptions
+  in Microbial Sulfur and Tryptophan Pathways
 subtitle: ''
 summary: ''
 authors:
-- Jonathan L. Golob
-- Martha M. DeMeules
-- Tillie Loeffelholz
-- Z. Z. Quinn
-- Michael K. Dame
-- Sabrina S. Silvestri
-- Michael C. Wu
-- Thomas M. Schmidt
-- Tina L. Fiedler
-- Matthew J. Hoostal
-- Marco Mielcarek
-- Jason Spence
-- Steven A. Pergam
-- David N. Fredricks
+- Jonathan Golob
+- Krishna Rao
+- Jeffrey A. Berinstein
+- William D. Chey
+- Chung Owyang
+- Nobuhiko Kamada
+- Peter D.R. Higgins
+- Vincent Young
+- Shrinivas Bishu
+- Allen A. Lee
 tags: []
 categories: []
-date: '2019-10-01'
-lastmod: 2024-01-05T17:14:26-05:00
+date: '2023-11-01'
+lastmod: 2024-01-05T17:14:27-05:00
 featured: false
 draft: false
 
@@ -41,13 +37,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-05T22:14:25.476136Z'
+publishDate: '2024-01-05T22:14:27.489939Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Blood Advances*'
-doi: 10.1182/bloodadvances.2019000362
+publication: '*Gastro Hep Advances*'
+doi: 10.1016/j.gastha.2023.11.005
 links:
 - name: URL
-  url: http://www.bloodadvances.org/lookup/doi/10.1182/bloodadvances.2019000362
+  url: https://linkinghub.elsevier.com/retrieve/pii/S2772572323001802
 ---
